@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_titlebar_title_default">Odeslání dat do Windows 10 / 11</string>
+	<string name="app_titlebar_title_receive">Příjem dat z Windows 10 / 11</string>
+	<string name="app_titlebar_title_receive_setup">Nastavení / Informace</string>
+	<string name="assets_prefix">cs</string>
+	<!-- #region generic -->
+	<string name="generic_back">Zpět</string>
+	<string name="generic_next">Další</string>
+	<string name="generic_cancel">Zrušit</string>
+	<string name="generic_save">Uložit</string>
+	<string name="generic_send">Odeslat</string>
+	<string name="generic_receive">Přijmout</string>
+	<string name="generic_status_template">Stav: {0}</string>
+	<string name="generic_error_template">Chyba: {0}</string>
+	<string name="generic_important">Důležité</string>
+	<string name="generic_notifications">Oznámení</string>
+	<string name="generic_settings">Nastavení</string>
+	<string name="device_name">Název zařízení</string>
+	<!-- #endregion -->
+	<!-- #region activity_mac_address.xml -->
+	<string name="launch_settings">Otevřít nastavení</string>
+	<string name="bt_mac_address">Bluetooth MAC adresa</string>
+	<!-- #endregion -->
+	<!-- #region activity_receive.xml -->
+	<string name="visible_as_template">Viditelný jako {0}</string>
+	<string name="debug_log">Ladicí protokol</string>
+	<!-- #endregion -->
+	<!-- #region activity_share.xml -->
+	<string name="scanning">Vyhledávání ...</string>
+	<!-- #endregion -->
+	<!-- #region preferences.xml -->
+	<string name="category_general">Obecné</string>
+	<string name="category_links">Odkazy / Nápověda</string>
+	<string name="category_permissions">Oprávnění</string>
+	<string name="category_setup">Nastavení</string>
+	<string name="category_about">O aplikaci</string>
+	<string name="request_permissions_title">Požádat o oprávnění</string>
+	<string name="request_permissions_summary">Udělit potřebná oprávnění aplikaci</string>
+	<string name="request_enable_bluetooth">Povolit Bluetooth</string>
+	<string name="open_sponsor_title">Sponzor</string>
+	<string name="open_sponsor_summary">Podpořit tvůrce aplikace</string>
+	<string name="open_faq_title">Nápověda</string>
+	<string name="open_faq_summary">Otevřít FAQ</string>
+	<string name="open_crowdin_title">Crowdin</string>
+	<string name="open_crowdin_summary">Pomozte s překlady</string>
+	<string name="open_discord_title">Discord</string>
+	<string name="open_discord_summary">Připojte se k Discord serveru</string>
+	<string name="preference_appearance_title">UI / Vzhled</string>
+	<string name="preference_appearance_summary">Jazyk, Tmavý režim</string>
+	<string name="force_dark_mode_title">Tmavý režim</string>
+	<string name="force_dark_mode_summary">Vynutit tmavý režim</string>
+	<string name="switch_language_title">Jazyk aplikace</string>
+	<string name="switch_language_summary">Změnit zobrazovaný jazyk aplikace</string>
+	<string name="preference_cdp_title">Platforma připojených zařízení</string>
+	<string name="preference_cdp_summary">Nastavení odesílání a příjmu</string>
+	<string name="open_setup">Nastavení PC se systémem Windows</string>
+	<string name="open_setup_title">Nastavení PC</string>
+	<string name="open_setup_summary">Návod na potřebná nastavení PC</string>
+	<string name="goto_mac_address_title">Zadat MAC adresu</string>
+	<string name="goto_mac_address_summary">Zadat MAC adresu tohoto zařízení</string>
+	<string name="device_name_title">Název zařízení</string>
+	<string name="device_name_summary">Změňte, jak vás vidí ostatní</string>
+	<string name="show_credits_title">Zobrazit titulek</string>
+	<!-- #endregion -->
+	<!-- #region ReceiveActivity.cs -->
+	<string name="receive_missing_permissions">Příjem bez oprávnění není možný!</string>
+	<!-- #endregion -->
+	<!-- #region ReceiveActivity.cs -->
+	<string name="share_file">Sdílet soubor</string>
+	<string name="share_url">Sdílet adresu URL</string>
+	<string name="share_text">Sdílet text</string>
+	<string name="send_missing_permissions">Chybějící oprávnění!</string>
+	<string name="wait_for_acceptance">Čekání na přijetí</string>
+	<string name="status_cancelled">Zrušeno</string>
+	<string name="status_done">Hotovo</string>
+	<string name="sending_template">Odesílání {0} souborů</string>
+	<!-- #endregion -->
+</resources>
